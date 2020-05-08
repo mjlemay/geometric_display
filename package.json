@@ -1,0 +1,25 @@
+{
+  "name": "geometic_display",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@googlemaps/google-maps-services-js": "^2.6.0",
+    "axios": "^0.19.2",
+    "dotenv": "^8.2.0",
+    "next": "9.3.5",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-simple-maps": "^2.0.0",
+    "styled-components": "^5.1.0"
+  },
+  "devDependencies": {
+    "babel-plugin-styled-components": "^1.10.7",
+    "eslint": "^6.8.0",
+    "eslint-plugin-react-hooks": "^3.0.0"
+  }
+}
